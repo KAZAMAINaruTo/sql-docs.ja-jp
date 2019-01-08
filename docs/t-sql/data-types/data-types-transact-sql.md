@@ -47,8 +47,8 @@ ms.locfileid: "50970433"
   
 |||  
 |-|-|  
-|真数|Unicode 文字列|  
-|概数|バイナリ文字列|  
+|真数型|Unicode 文字列|  
+|概数型|バイナリ文字列|  
 |日付と時刻|その他のデータ型|  
 |文字列||  
   
@@ -59,7 +59,7 @@ ms.locfileid: "50970433"
     > [!NOTE]  
     >  sp_help は、大きな値および **xml** を受け取るデータ型の長さとして -1 を返します。  
   
-### <a name="exact-numerics"></a>真数
+### <a name="exact-numerics"></a>真数型
   
 |||  
 |-|-|  
@@ -69,7 +69,7 @@ ms.locfileid: "50970433"
 |[int](../../t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql.md)|[tinyint](../../t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql.md)|  
 |[money](../../t-sql/data-types/money-and-smallmoney-transact-sql.md)||  
   
-### <a name="approximate-numerics"></a>概数
+### <a name="approximate-numerics"></a>概数型
   
 |||  
 |-|-|  
